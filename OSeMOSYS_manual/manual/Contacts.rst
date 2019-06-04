@@ -3,12 +3,9 @@ Contacts
 =================================
 Contacts
 +++++++++++++++++
-For any questions, please  go on our `Reddit forum <https://www.reddit.com/r/optimuscommunity/comments/837cvn/osemosys_qa_part_3/>`_ under the Optimus.community.
+For any questions, please  go on our `Google forum <https://groups.google.com/forum/#!forum/osemosys/>`_ under the Optimus.community.
 
 You will need just a few clicks to sign up to the forum.
-
-.. figure::  documents/img/reddit.png
-   :align:   center
    
    
 **Contact us:**
